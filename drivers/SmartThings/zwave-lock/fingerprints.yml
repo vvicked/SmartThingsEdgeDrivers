@@ -19,6 +19,11 @@ zwaveManufacturer:
     productType: 0x0001
     productId: 0x0001
     deviceProfileName: base-lock
+  - id: "KwikSet/912/2"
+    deviceLabel: KwikSet Door Lock
+    manufacturerId: 0x0090
+    productType: 0x0003
+    productId: 0x0336
   - id: "KwikSet/912"
     deviceLabel: KwikSet Door Lock
     manufacturerId: 0x0090
