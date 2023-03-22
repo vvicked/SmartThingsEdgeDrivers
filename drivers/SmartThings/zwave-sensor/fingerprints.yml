@@ -98,6 +98,12 @@ zwaveManufacturer:
     productType: 0x2002
     productId: 0x0205
     deviceProfileName: motion-temp-sensor
+  - id: "vision/motion/2"
+    deviceLabel: Vision Motion Detector WAPIRZ-1
+    manufacturerId: 0x014F
+    productType: 0x2002
+    productId: 0x0203
+    deviceProfileName: motion-temp-sensor
   - id: "fibaro/flood/zw5"
     deviceLabel: Fibaro Flood Sensor ZW5
     manufacturerId: 0x010F
